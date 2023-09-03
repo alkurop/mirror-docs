@@ -4,7 +4,7 @@ They replicate every movement with beats, strings and flutes.
 The described mechanism can be graphically represented as follows:
 <br>
 <br>
-![zaouli_diagram](./img/zaoli.png)
+![zoauli_diagram](./img/zoauli.png)
 <br>
 <br>
 
