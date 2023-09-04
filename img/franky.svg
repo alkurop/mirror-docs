@@ -27,7 +27,7 @@
      showguides="true"
      inkscape:zoom="4.8537138"
      inkscape:cx="241.97966"
-     inkscape:cy="460.1631"
+     inkscape:cy="488.59494"
      inkscape:window-width="2560"
      inkscape:window-height="1387"
      inkscape:window-x="0"
@@ -59,7 +59,10 @@
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none"
        d="m 63.61303,126.04583 -3.2945,7.69667 9.607293,1.22527 3.710368,-8.21036 z"
-       id="path1325" />
+       id="path1325"
+       inkscape:export-filename="mirror_machine.png"
+       inkscape:export-xdpi="1122.51"
+       inkscape:export-ydpi="1122.51" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-dasharray:none"
        id="rect4905"
