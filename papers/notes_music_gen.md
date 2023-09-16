@@ -1,5 +1,6 @@
 Symbolic music generation:
 - boulanger
+- Audio LM
 - google magenta
 - LSTM music
 - Xiaoice Band
@@ -59,5 +60,5 @@ Symbolic music generation:
 -  Meta’s LLaMA
 - MusicCaps [4] and MagnaTagATune
 - OpenL3
-- musif - python package!! , music21  !!! this is super dooper cool
+- musif - python package!! , music21  !!! this is super dooper cool, jSymbuolic, music21 - feature extraction
 - musologist
