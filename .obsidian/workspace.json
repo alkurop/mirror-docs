@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "0fae788e0cc028c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3985a6f391f6f4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5f2db254ef38b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "confusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a220748bed83bb22",
+    "type": "split",
+    "children": [
+      {
+        "id": "026e8a64a6aebfa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cef28de071741bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca41853f18ff61ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27be83f823d43a8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cf2e62bcb90c27d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9eb11147926479b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400edf08164d1476",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "confusion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19c106589d767cfe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "confusion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "166d522555fd3e27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a89e388cf1978a5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "confusion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1cef28de071741bc",
+  "lastOpenFiles": [
+    "concept.md",
+    "body_musical_instrument.md",
+    "questions/being_human.md",
+    "questions/body_function.md",
+    "future/additional_ideas.md",
+    "questions",
+    "existing",
+    "parts",
+    "future",
+    "init.md",
+    "notes_music_gen.pdf",
+    "confusion.md"
+  ]
+}

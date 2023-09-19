@@ -1,10 +1,8 @@
 # Introduction of concept
 
 I'm interested in exploring interactive environments. My current focus is generative sound scapes.
-Human was pushed from or walked out from natural habitat into an artificial world.
-Unfortunately, all the objects in the artificial world were build to serve us - the don't possess free will, and thus are not potent to surprise it's owner.
-Human environments are boring, static, predictable and utilitarian.
-Modern art would be much more interesting if were more interactive, so making it this way is a share goal among new generation artistic communities.
+
+Human was pushed from or walked out from natural habitat into an artificial world. Unfortunately, all the objects in the artificial world were build to serve us - the don't possess free will, and thus are not potent to surprise it's owner. Human environments are boring, static, predictable and utilitarian. Modern art would be much more interesting if were more interactive, so making it this way is a share goal among new generation artistic communities.
 
 Instead of crafting interactive virtual reality, I would like to explore crafting sophisticated physical object, and concentrate on building smart interactive devices.
 

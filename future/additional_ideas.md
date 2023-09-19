@@ -1,6 +1,6 @@
 There are some additional ideas to explore beyond and above the current phase:
 1. How could multiple machine of this kind exchange data with one another
-2. what also beyond sound could they control 
+2. What also beyond sound could they control 
 - light
 - humidity
 - physical objects

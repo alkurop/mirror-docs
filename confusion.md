@@ -13,4 +13,6 @@ Mirror's task is primarily to study its subjects in time, and output rhythmic pa
 
 My work I focused on this specific part. I'm collaborating with a musical performer who consults me on musical theory and harmony.
 
+[[notes_music_gen.pdf]]
+
 
