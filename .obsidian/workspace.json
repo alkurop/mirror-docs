@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "confusion.md",
+                "file": "notes_music_gen.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "confusion.md",
+                "file": "notes_music_gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "confusion.md",
+                "file": "notes_music_gen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "confusion.md"
+                "file": "notes_music_gen.md"
               }
             }
           }
@@ -146,19 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cef28de071741bc",
+  "active": "ab5f2db254ef38b1",
   "lastOpenFiles": [
-    "concept.md",
-    "body_musical_instrument.md",
+    "init.md",
+    "notes_music_gen.md",
+    "concept/usecases.md",
+    "concept/spirits_move_dancer.md",
+    "concept/sound_polution.md",
+    "concept/scientific_interest.md",
+    "concept/reasons.md",
+    "questions/phylosophical_questions.md",
+    "notes_music_gen.pdf",
+    "concept/machine_that_im_building.md",
+    "concept/limits_of_expression.md",
+    "concept/hypothesis.md",
+    "future/future_dev.md",
+    "concept/essential_parts.md",
+    "questions/body_musical_instrument.md",
+    "concept/confusion.md",
+    "concept",
+    "concept/concept.md",
     "questions/being_human.md",
     "questions/body_function.md",
     "future/additional_ideas.md",
     "questions",
     "existing",
     "parts",
-    "future",
-    "init.md",
-    "notes_music_gen.pdf",
-    "confusion.md"
+    "future"
   ]
 }

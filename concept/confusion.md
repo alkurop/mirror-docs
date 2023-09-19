@@ -1,4 +1,5 @@
 # Revelation through confusion
+
 Let's discuss that one technical side that I find the most interesting.
 As per machines input and output, in the end result human movements should be converted into sounds.
 The proposed idea is to make the conversion complicated, unpredictable and hidden. Machine must emit not just single unconnected sounds, but a compositions with patterns, rhythm and interrelation.

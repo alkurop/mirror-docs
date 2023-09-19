@@ -1,3 +1,7 @@
+
+# Use Cases
+
+
 Such a system has multiple use cases not limited by my imaginations, but at very least:
 1. Installed in a room as a stand alone exhibition to explore human and machine interaction. 
 2. Installed in a visually design room as a part of a futuristic interior design set up.

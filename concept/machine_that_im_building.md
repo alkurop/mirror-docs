@@ -3,7 +3,7 @@ The machine that Im building is supposed to help me find answer to at least some
 Regard this scheme:
 <br>
 <br>
-![main_diagram](./img/main_diagram.png)
+![main_diagram](main_diagram.png)
 
 <br>
 <br>
