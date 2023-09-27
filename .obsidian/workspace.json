@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes_music_gen.md",
+                "file": "other projects/Music Vae.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes_music_gen.md",
+                "file": "other projects/Music Vae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes_music_gen.md",
+                "file": "other projects/Music Vae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes_music_gen.md"
+                "file": "other projects/Music Vae.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "ab5f2db254ef38b1",
   "lastOpenFiles": [
-    "init.md",
+    "other projects/magenta.md",
+    "other projects/Music Vae.md",
+    "other projects/Laten loops.md",
+    "other projects/Neon dum machine.md",
+    "other projects/music_vae.md",
     "notes_music_gen.md",
+    "init.md",
     "concept/usecases.md",
     "concept/spirits_move_dancer.md",
     "concept/sound_polution.md",
