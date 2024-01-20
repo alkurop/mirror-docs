@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71abd3a1b1c647f2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab5f2db254ef38b1",
+  "active": "71abd3a1b1c647f2",
   "lastOpenFiles": [
     "other projects/magenta.md",
     "other projects/Music Vae.md",
